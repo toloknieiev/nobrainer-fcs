@@ -1,5 +1,5 @@
 # nobrainer-fcs
-A python script made for simple users or lazy data wranglers to examine flow cytometry metadata on-the fly.
+A python script made for simple users or lazy data wranglers to examine flow cytometry metadata on-the-fly.
 
 This is a script made for my personal use for the purposes of inspecting .fcs file metadata. I decided to share it.
 
